@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Antonio Figueiredo</h1>
 <h3 align="center">A Ph.D. Student in Physics at Bonn University</h3>
 
-- 🔭 I’m currently working on [Hyperon photoproducation at the BGOOD Experiment](https://www.pi.uni-bonn.de/bgood/en)
+- 🔭 I’m currently working on [Hyperon photoproduction at the BGOOD Experiment](https://www.pi.uni-bonn.de/bgood/en)
