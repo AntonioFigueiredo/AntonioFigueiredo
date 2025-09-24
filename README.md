@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center">A Ph.D. Student in Physics at Bonn University</h3>
 
 - 🔭 I’m currently working on [Hyperon photoproduction at the BGOOD Experiment](https://www.pi.uni-bonn.de/bgood/en)
-- 🎮 Check out my games on [itch.io](https://drw4ts0n.itch.io/)
+- 🎮 Check out my games on <a href="https://drw4ts0n.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile"/>
+  </a>
