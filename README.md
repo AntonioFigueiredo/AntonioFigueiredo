@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Hyperon photoproduction at the BGOOD Experiment](https://www.pi.uni-bonn.de/bgood/en)
 - 🎮 Check out my games on <a href="https://drw4ts0n.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile"/>
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io Profile" height="20"/>
   </a>
